@@ -1,40 +1,40 @@
-Web Scraping Project with BeautifulSoup
-Overview
+# Web Scraping Project with BeautifulSoup
+### Overview
 
 This project demonstrates web scraping techniques using Python's BeautifulSoup library. The aim is to extract data from web pages and present it in a structured format. The project provides examples of how to scrape various types of content, including text, images, and links, from a target website.
 
-Features
+### Features
 
-    Scrape and parse HTML content from web pages
-    Extract text, images, links, and other elements
-    Handle pagination and dynamic content
+* Scrape and parse HTML content from web pages
+* Extract text, images, links, and other elements
+* Handle pagination and dynamic content
 
-Prerequisites
+### Prerequisites
 
     Python 3.6 or higher
     pip (Python package installer)
     beautifulsoup
 
-Installation
+### Installation
 
-Clone the repository:
+1. Clone the repository:
 
-    git clone https://github.com/jomorro/web-scraping.git
+        git clone https://github.com/jomorro/web-scraping.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-    cd web-scraping
+        cd web-scraping
 
-Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
 
-    python -m venv venv
+        python -m venv venv
 
-Activate the virtual environment:
+4. Activate the virtual environment:
 
-    Windows: venv\Scripts\activate
+        Windows: venv\Scripts\activate
 
-    MacOS/Linux: source venv/bin/activate
+        MacOS/Linux: source venv/bin/activate
 
-Install the required packages:
+5. Install the required packages:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
