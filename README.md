@@ -19,7 +19,7 @@ This project demonstrates web scraping techniques using Python's BeautifulSoup l
 
 1. Clone the repository:
 
-        git clone https://github.com/jomorro/web-scraping.git
+        git clone https://github.com/jomorro/web_scraping.git
 
 2. Navigate to the project directory:
 
